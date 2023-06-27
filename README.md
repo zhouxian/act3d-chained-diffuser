@@ -12,4 +12,6 @@ and
 > [Zhou Xian*](https://zhou-xian.com/), [Nikolaos Gkanatsios*](https://nickgkan.github.io/), [Theophile Gervet*](https://theophilegervet.github.io/), [Katerina Fragkiadaki](https://www.cs.cmu.edu/~katef/)  
 
 
+![](imgs/tasks.png)
+
 Code release coming soon!
