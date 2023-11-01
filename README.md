@@ -50,7 +50,7 @@ sudo reboot  # Need to reboot for changes to take effect
 
 ## Dataset Generation
 
-See `data_preprocessing` folder. Additionally download [instructions.pkl](update_soon).
+See `data_preprocessing` folder. Additionally download [instructions.pkl](https://drive.google.com/file/d/1ZGp18GBzzM9oP866vlTBg4DgfXn7BliL/view?usp=sharing).
 
 ## Training Act3D
 
