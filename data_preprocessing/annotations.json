@@ -1,0 +1,2400 @@
+[
+  {
+    "id": "rec16qJ9xvKzZ30xr",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 191,
+      "episode": 0,
+      "instruction": "Press the green, cyan and pink buttons in that order.",
+      "time_start": "1653912935538",
+      "Last Modified": "2022-05-30T12:16:23.000Z"
+    }
+  },
+  {
+    "id": "rec5gb7wlzVBAUEbN",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 156,
+      "episode": 1,
+      "instruction": "Press the darker blue button, then the grey one and finally the lighter blue button.",
+      "time_start": "1653913190880",
+      "Last Modified": "2022-05-30T12:20:20.000Z"
+    }
+  },
+  {
+    "id": "rec01TRmhtjjIITUk",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 170,
+      "episode": 6,
+      "instruction": "Press the grey and then the green button ",
+      "time_start": "1653837442221",
+      "Last Modified": "2022-05-29T15:18:08.000Z"
+    }
+  },
+  {
+    "id": "rec01oQbJR7NJFcJ9",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 174,
+      "episode": 3,
+      "instruction": "Press the black button, and then do the same with the gray button and press the pink button.",
+      "time_start": "1653998152452",
+      "Last Modified": "2022-05-31T11:56:11.000Z"
+    }
+  },
+  {
+    "id": "rec06WM5uBREg9hFb",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 123,
+      "episode": 8,
+      "instruction": "Press the yellow button and the press the light blue button and finish with the green button",
+      "time_start": "1653986734637",
+      "Last Modified": "2022-05-31T08:46:04.000Z"
+    }
+  },
+  {
+    "id": "rec0xYmgku3NdeYUO",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 184,
+      "episode": 5,
+      "instruction": "Tap on the green button, then the grey button and end up pressing the pink button.",
+      "time_start": "1653912782735",
+      "Last Modified": "2022-05-30T12:13:35.000Z"
+    }
+  },
+  {
+    "id": "rec0ytACINB9OmfiW",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 164,
+      "episode": 7,
+      "instruction": "Press the green button. go the the blue button and press it. Finally press the cyan button",
+      "time_start": "1653912166372",
+      "Last Modified": "2022-05-31T12:05:51.000Z"
+    }
+  },
+  {
+    "id": "rec1LV212LmN8vOJM",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 185,
+      "episode": 8,
+      "instruction": "First push the orange button, then the purple one, finally press the white button",
+      "time_start": "1653840018602",
+      "Last Modified": "2022-05-29T16:00:58.000Z"
+    }
+  },
+  {
+    "id": "rec1MUxVeOwk8QNqf",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 143,
+      "episode": 3,
+      "instruction": "Press the while button and then you go to green button and press it and finally press the black button",
+      "time_start": "1653986881425",
+      "Last Modified": "2022-05-31T08:48:23.000Z"
+    }
+  },
+  {
+    "id": "rec1PHRoGGL7MfG8W",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 113,
+      "episode": 1,
+      "instruction": "Press cyan then the grey button and then dark green buttons",
+      "time_start": "1653839946432",
+      "Last Modified": "2022-05-31T11:59:45.000Z"
+    }
+  },
+  {
+    "id": "rec1XvMPMTSxPZDtw",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 170,
+      "episode": 4,
+      "instruction": "Press the gray button and then press the green button",
+      "time_start": "1653937855076",
+      "Last Modified": "2022-05-30T19:11:34.000Z"
+    }
+  },
+  {
+    "id": "rec2B0F7UbdkGrdA6",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 160,
+      "episode": 5,
+      "instruction": "Press the olive button, and push the navy button and press the yellow button.",
+      "time_start": "1653998251031",
+      "Last Modified": "2022-05-31T12:07:05.000Z"
+    }
+  },
+  {
+    "id": "rec2QcfDgizYt7Bvk",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 146,
+      "episode": 8,
+      "instruction": "press the red button and then the violet button and press the green button",
+      "time_start": "1653912111988",
+      "Last Modified": "2022-05-31T12:03:10.000Z"
+    }
+  },
+  {
+    "id": "rec2v9trrFnu6cYzq",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 161,
+      "episode": 9,
+      "instruction": "Press the olive button and then press the navy button and finally press the blue button",
+      "time_start": "1653998037334",
+      "Last Modified": "2022-05-31T11:54:15.000Z"
+    }
+  },
+  {
+    "id": "rec33Wy7LkM14a61L",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 118,
+      "episode": 5,
+      "instruction": "Press the blue button, then the dark red button, finish by pressing the orange button",
+      "time_start": "1653837801247",
+      "Last Modified": "2022-05-29T15:59:07.000Z"
+    }
+  },
+  {
+    "id": "rec3Nrg1ghEiOz9wB",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 135,
+      "episode": 0,
+      "instruction": "Press the black button and then push the pink button and then the blue button",
+      "time_start": "1653837605648",
+      "Last Modified": "2022-05-31T12:02:07.000Z"
+    }
+  },
+  {
+    "id": "rec3OKjQaJWsHkAt6",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 113,
+      "episode": 8,
+      "instruction": "press the cyan, then move to the gray one and finish with the green button",
+      "time_start": "1653912139529",
+      "Last Modified": "2022-05-30T12:02:46.000Z"
+    }
+  },
+  {
+    "id": "rec3VcckhYpqqdu5F",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 176,
+      "episode": 9,
+      "instruction": "Press the brown button and then press the pink button and finally press the pink button",
+      "time_start": "1653998008981",
+      "Last Modified": "2022-05-31T11:53:57.000Z"
+    }
+  },
+  {
+    "id": "rec3YhcFbWViiHni1",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 181,
+      "episode": 9,
+      "instruction": "Press the black button and then press the violet button and finish with the pink one",
+      "time_start": "1653998090567",
+      "Last Modified": "2022-05-31T11:55:11.000Z"
+    }
+  },
+  {
+    "id": "rec3i9JiJ2jRiDCh8",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 153,
+      "episode": 4,
+      "instruction": "Press the brown button and then press the navy button and push the blue button",
+      "time_start": "1653986826279",
+      "Last Modified": "2022-05-31T12:04:11.000Z"
+    }
+  },
+  {
+    "id": "rec3qAfISCifcDvlV",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 118,
+      "episode": 9,
+      "instruction": "Press the blue button and then push the purple and finally the orange one",
+      "time_start": "1653986690864",
+      "Last Modified": "2022-05-31T08:45:16.000Z"
+    }
+  },
+  {
+    "id": "rec3vFcEb70T1K0BU",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 106,
+      "episode": 5,
+      "instruction": "Press the grey button, then the dark one and finally the pink lid.",
+      "time_start": "1653912815864",
+      "Last Modified": "2022-05-30T12:14:12.000Z"
+    }
+  },
+  {
+    "id": "rec4MmQkBZHIov4CC",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 137,
+      "episode": 7,
+      "instruction": "Press the grey button before the white one and stop the task.",
+      "time_start": "1653912852855",
+      "Last Modified": "2022-05-30T12:14:49.000Z"
+    }
+  },
+  {
+    "id": "rec4PbXhZL4ibkznl",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 163,
+      "episode": 4,
+      "instruction": "In that order, press the red, white and finally purple buttons.",
+      "time_start": "1653912574121",
+      "Last Modified": "2022-05-30T12:11:35.000Z"
+    }
+  },
+  {
+    "id": "rec4QQfviI03bmnJW",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 102,
+      "episode": 5,
+      "instruction": "Press the purple button and then press with the orange button and finally press the pink one",
+      "time_start": "1653986717223",
+      "Last Modified": "2022-05-31T11:59:25.000Z"
+    }
+  },
+  {
+    "id": "rec4XyrhjEyRwej8r",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 174,
+      "episode": 2,
+      "instruction": "Press the black button and then press the gray button and push the pink one.",
+      "time_start": "1653998229329",
+      "Last Modified": "2022-05-31T11:57:30.000Z"
+    }
+  },
+  {
+    "id": "rec5eYLbgPfHiSmtr",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 131,
+      "episode": 9,
+      "instruction": "Press the pink button, and then go to the purple button. Then press the green button.",
+      "time_start": "1653986570528",
+      "Last Modified": "2022-05-31T12:01:22.000Z"
+    }
+  },
+  {
+    "id": "rec5iuitjpAnNh8rW",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 171,
+      "episode": 2,
+      "instruction": "Press the white button, continue by pressing the grey button, finish by pressing the pink button",
+      "time_start": "1653837557094",
+      "Last Modified": "2022-05-29T15:20:07.000Z"
+    }
+  },
+  {
+    "id": "rec60omUas8yaeUGr",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 159,
+      "episode": 1,
+      "instruction": "Push the dark red, the black and the purple buttons in a sequence",
+      "time_start": "1653837697169",
+      "Last Modified": "2022-05-29T15:22:33.000Z"
+    }
+  },
+  {
+    "id": "rec6FybYU93l5dvTP",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 141,
+      "episode": 2,
+      "instruction": "Push the olive button and then the blue one and finally the green one.",
+      "time_start": "1653913075670",
+      "Last Modified": "2022-05-31T12:02:38.000Z"
+    }
+  },
+  {
+    "id": "rec6QoHWSxHwV45Fe",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 194,
+      "episode": 7,
+      "instruction": "You have to tap on the blue button, and after that press the orange one, and end up pressing down on the yellow button.",
+      "time_start": "1653912889656",
+      "Last Modified": "2022-05-30T12:15:35.000Z"
+    }
+  },
+  {
+    "id": "rec6RKrPThYrSUAmx",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 165,
+      "episode": 2,
+      "instruction": "Press the olive, pink and grey buttons following that exact order.",
+      "time_start": "1653913164696",
+      "Last Modified": "2022-05-30T12:19:50.000Z"
+    }
+  },
+  {
+    "id": "rec6UCKhOsprcQfw9",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 111,
+      "episode": 6,
+      "instruction": "Press the orange button and switch to the green button and finish with the black button",
+      "time_start": "1653986667976",
+      "Last Modified": "2022-05-31T08:44:46.000Z"
+    }
+  },
+  {
+    "id": "rec6by3ME4f9O7gQe",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 152,
+      "episode": 3,
+      "instruction": "Push the purple button and then press the the yellow button and finally press the gray button",
+      "time_start": "1653998055471",
+      "Last Modified": "2022-05-31T11:54:50.000Z"
+    }
+  },
+  {
+    "id": "rec6vjM86kJutuIjC",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 168,
+      "episode": 8,
+      "instruction": "First press the blue button, then press the purple one, finish by pressing the white button",
+      "time_start": "1653837486445",
+      "Last Modified": "2022-05-29T15:19:19.000Z"
+    }
+  },
+  {
+    "id": "rec70RNgyhGg3dYDF",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 119,
+      "episode": 2,
+      "instruction": "Press the green button and then you press the brown button and you finish with the yellow button",
+      "time_start": "1653986903222",
+      "Last Modified": "2022-05-31T08:48:46.000Z"
+    }
+  },
+  {
+    "id": "rec70ia6qXs0n4hgZ",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 162,
+      "episode": 1,
+      "instruction": "Press the gray button, and then press the green and press the blue button",
+      "time_start": "1653914323941",
+      "Last Modified": "2022-05-30T19:08:57.000Z"
+    }
+  },
+  {
+    "id": "rec71IjztfR53n9bE",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 141,
+      "episode": 9,
+      "instruction": "Press the olive button and then press the cyan button and finally press the green button",
+      "time_start": "1653937781062",
+      "Last Modified": "2022-05-30T19:10:35.000Z"
+    }
+  },
+  {
+    "id": "rec7CaaXngRn0Bww1",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 168,
+      "episode": 3,
+      "instruction": "Tap on the blue button before the purple one and finish with the white one.",
+      "time_start": "1653912695854",
+      "Last Modified": "2022-05-30T12:13:02.000Z"
+    }
+  },
+  {
+    "id": "rec7STmAZddm0cIy6",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 178,
+      "episode": 1,
+      "instruction": "Press the yellow button, continue by pressing the purple and then pink buttons",
+      "time_start": "1653837248170",
+      "Last Modified": "2022-05-29T15:17:23.000Z"
+    }
+  },
+  {
+    "id": "rec7Ug10DwT3koANp",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 110,
+      "episode": 5,
+      "instruction": "Press the pink button and then the purple one.",
+      "time_start": "1653912230813",
+      "Last Modified": "2022-05-30T12:09:33.000Z"
+    }
+  },
+  {
+    "id": "rec7e5FlpbgDlR6dz",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 101,
+      "episode": 3,
+      "instruction": "Press the cyan button, then the black button and finally press the dark blue button",
+      "time_start": "1653837642624",
+      "Last Modified": "2022-05-29T15:21:39.000Z"
+    }
+  },
+  {
+    "id": "rec7pvskuX8JV6Uof",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 121,
+      "episode": 9,
+      "instruction": "Press the gray button and then do the same with the white button and finish with the black button",
+      "time_start": "1653986594046",
+      "Last Modified": "2022-05-31T08:43:57.000Z"
+    }
+  },
+  {
+    "id": "rec7vj9zPQQF8uud8",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 158,
+      "episode": 5,
+      "instruction": "Push the cyan button, then press the grey button and press the  green button",
+      "time_start": "1653837751010",
+      "Last Modified": "2022-05-31T12:04:58.000Z"
+    }
+  },
+  {
+    "id": "rec871nxwzTw1oItI",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 117,
+      "episode": 5,
+      "instruction": "push the purple button and then push the blue button and push the navy one",
+      "time_start": "1653986474799",
+      "Last Modified": "2022-05-31T12:00:24.000Z"
+    }
+  },
+  {
+    "id": "rec8CLfx4axegdr11",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 136,
+      "episode": 1,
+      "instruction": "Press the while button, then press the olive button and finally press the gray button",
+      "time_start": "1653937835663",
+      "Last Modified": "2022-05-30T19:10:54.000Z"
+    }
+  },
+  {
+    "id": "rec8MSpbGRMgCYeVt",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 134,
+      "episode": 8,
+      "instruction": "Press the green button and then press the pink and press the cyan one",
+      "time_start": "1653998111833",
+      "Last Modified": "2022-05-31T11:55:32.000Z"
+    }
+  },
+  {
+    "id": "rec8N0M3WOkuKsmzh",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 148,
+      "episode": 4,
+      "instruction": "Press the purple button and then press the blue button and then press the gray button",
+      "time_start": "1653937740617",
+      "Last Modified": "2022-05-30T19:09:21.000Z"
+    }
+  },
+  {
+    "id": "rec8NXgtHvj2IyZSt",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 189,
+      "episode": 5,
+      "instruction": "Press the gray button and then press the blue button and then press the yellow button.",
+      "time_start": "1653937761416",
+      "Last Modified": "2022-05-30T19:09:40.000Z"
+    }
+  },
+  {
+    "id": "rec8lqsHPCK3SAI9O",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 159,
+      "episode": 0,
+      "instruction": "The sequence of colors of buttons that you should push is purple, black and violet.",
+      "time_start": "1653912983627",
+      "Last Modified": "2022-05-30T12:17:55.000Z"
+    }
+  },
+  {
+    "id": "rec8oP7wdnNZikAQK",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 135,
+      "episode": 6,
+      "instruction": "Press the black button and then press the pink button and finally press the blue button",
+      "time_start": "1653986637599",
+      "Last Modified": "2022-05-31T08:44:20.000Z"
+    }
+  },
+  {
+    "id": "rec99yP4JhUJuh5G8",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 103,
+      "episode": 5,
+      "instruction": "Press the yellow button and then press the black button and press the white button",
+      "time_start": "1653998172034",
+      "Last Modified": "2022-05-31T11:56:30.000Z"
+    }
+  },
+  {
+    "id": "rec9jYI7Ln5zK86PX",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 149,
+      "episode": 3,
+      "instruction": "Press the orange button, before you press the blue button and you push the pink one",
+      "time_start": "1653986764563",
+      "Last Modified": "2022-05-31T12:03:37.000Z"
+    }
+  },
+  {
+    "id": "rec9kHcgLxrZhWNtZ",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 108,
+      "episode": 7,
+      "instruction": "Press the olive button and press the orange one and press the pink one",
+      "time_start": "1653998212047",
+      "Last Modified": "2022-05-31T11:57:09.000Z"
+    }
+  },
+  {
+    "id": "rec9oO1GM1fXLEDUs",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 125,
+      "episode": 5,
+      "instruction": "Press the navy button and then press the pink button and finish with the gray one",
+      "time_start": "1653986853350",
+      "Last Modified": "2022-05-31T08:47:58.000Z"
+    }
+  },
+  {
+    "id": "recA9Vl1CqZMeQh7W",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 175,
+      "episode": 8,
+      "instruction": "Press the light blue button and then press the black and push the blue button.",
+      "time_start": "1653998190905",
+      "Last Modified": "2022-05-31T11:56:51.000Z"
+    }
+  },
+  {
+    "id": "recAObOlh4YS2NJt6",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 127,
+      "episode": 6,
+      "instruction": "Push the gray button and then press the cyan button and push the white button.",
+      "time_start": "1653998132470",
+      "Last Modified": "2022-05-31T11:55:52.000Z"
+    }
+  },
+  {
+    "id": "recPEENsPTOy8cw9Z",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 143,
+      "episode": 8,
+      "instruction": "press the white button,  then the green button and finish with the brown button",
+      "Last Modified": "2022-05-29T13:59:16.000Z"
+    }
+  },
+  {
+    "id": "recfxyw9uYDMEU5nk",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 165,
+      "episode": 4,
+      "instruction": "please push the green button  and after you press the pink button and finally the gray button.",
+      "Last Modified": "2022-05-29T13:59:38.000Z"
+    }
+  },
+  {
+    "id": "recgluI9RAnQ50r6E",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 191,
+      "episode": 7,
+      "instruction": "push the green button and then the cyan button and then the pink one.",
+      "Last Modified": "2022-05-29T13:59:54.000Z"
+    }
+  },
+  {
+    "id": "recr9f4lBgyQHuIHI",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 112,
+      "episode": 5,
+      "instruction": "Press the yellow button, and then the black button, and finally the gray button.",
+      "Last Modified": "2022-05-29T13:58:39.000Z"
+    }
+  },
+  {
+    "id": "recybtCCpa2Mew9Tg",
+    "createdTime": "2022-05-29T13:58:00.000Z",
+    "fields": {
+      "task": "push_buttons3",
+      "variation": 128,
+      "episode": 6,
+      "instruction": "push the yellow button, then go to the brown button and finish with the purple button",
+      "Last Modified": "2022-05-29T13:58:58.000Z"
+    }
+  },
+  {
+    "id": "streamlit-tower3-65",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 147,
+      "colors": [
+        "azure",
+        "white",
+        "red"
+      ],
+      "episode": 0,
+      "instruction": "Take the light blue cube and put it as a base. Then take the white cube and put it on top of the red one.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-67",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 100,
+      "colors": [
+        "lime",
+        "rose"
+      ],
+      "episode": 0,
+      "instruction": "First green then pink on top of green.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-68",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 101,
+      "colors": [
+        "white",
+        "violet",
+        "navy"
+      ],
+      "episode": 0,
+      "instruction": "Start with the white block.  Put the violet block on top of the white block.  Next add the blue one on top of the violet block."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-69",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 102,
+      "colors": [
+        "orange",
+        "maroon",
+        "black"
+      ],
+      "episode": 0,
+      "instruction": "Place the orange block. Place the brown block on top of it. Place the black block on top of the others."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-70",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 103,
+      "colors": [
+        "cyan",
+        "yellow",
+        "teal"
+      ],
+      "episode": 0,
+      "instruction": "Stack the blue block. Then place the yellow block on top of the blue block.  Then place the green block on top of the yellow block."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-71",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 104,
+      "colors": [
+        "cyan",
+        "orange",
+        "navy"
+      ],
+      "episode": 0,
+      "instruction": "Move the light blue cube. Then place the orange cube on top of it. Take the dark blue cube and top them off.",
+
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-72",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 105,
+      "colors": [
+        "cyan",
+        "teal"
+      ],
+      "episode": 0,
+      "instruction": "Place the blue block. Place the green block on top of it."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-73",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 106,
+      "colors": [
+        "navy",
+        "white",
+        "lime"
+      ],
+      "episode": 0,
+      "instruction": "Put the blue cube as a base. Then place the white cube on top of the blue cube. Finally, place the green cube on top of the blue cube."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-74",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 107,
+      "colors": [
+        "orange",
+        "green",
+        "azure"
+      ],
+      "episode": 0,
+      "instruction": "Pick up the orange cube and set it down. Then pick up the green cube and put it on top of the blue cube."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-75",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 108,
+      "colors": [
+        "blue",
+        "purple",
+        "magenta"
+      ],
+      "episode": 0,
+      "instruction": "Place the blue cube. Place the purple cube on top of the blue cube. Place the remaining cube on the stack of cubes."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-76",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 109,
+      "colors": [
+        "red",
+        "blue"
+      ],
+      "episode": 0,
+      "instruction": "Step 1, move red cube. Step 2,  move blue cube, and put it on top of red."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-77",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 110,
+      "colors": [
+        "maroon",
+        "violet"
+      ],
+      "episode": 0,
+      "instruction": "Place the brown cube as a base. Then place the violet cube on top of it."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-78",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 111,
+      "colors": [
+        "maroon",
+        "lime",
+        "white"
+      ],
+      "episode": 0,
+      "instruction": "Place the marron block. Then place the green block on top of the marron block. Next place the white block on top of the green block."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-79",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 112,
+      "colors": [
+        "violet",
+        "rose",
+        "yellow"
+      ],
+      "episode": 0,
+      "instruction": "Start with the violet cube for the bottom. Stack the pink cube ontop of the violet cube. Then stack the yellow cube ontop of the pink cube to finish the tower."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-80",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 113,
+      "colors": [
+        "azure",
+        "teal",
+        "black"
+      ],
+      "episode": 0,
+      "instruction": "Place the blue cube. Place green cube on top of blue cube\nPlace black cube on top of green cube."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-81",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 114,
+      "colors": [
+        "cyan",
+        "rose",
+        "lime"
+      ],
+      "episode": 0,
+      "instruction": "Place the blue cube. Move the pink cube on top of it. Place the remaining cube on the stack of cubes.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-82",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 115,
+      "colors": [
+        "purple"
+      ],
+      "episode": 0,
+      "instruction": "Place the purple block."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-83",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 116,
+      "colors": [
+        "purple",
+        "red",
+        "cyan"
+      ],
+      "episode": 0,
+      "instruction": "Place the purple block on the target. Place the red block on top of it. Place the blue block on top of the red block."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-84",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 117,
+      "colors": [
+        "blue",
+        "magenta",
+        "teal"
+      ],
+      "episode": 0,
+      "instruction": "Place the blue cube. Now move the magenta cube on top of it. Finish by placing the green cube on top of them all."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-85",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 118,
+      "colors": [
+        "orange",
+        "green"
+      ],
+      "episode": 0,
+      "instruction": "Stack the orange cube.  Then, stack the green cube on top of the orange cube.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-86",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 119,
+      "colors": [
+        "yellow",
+        "teal"
+      ],
+      "episode": 0,
+      "instruction": "Place the yellow cube. Then, place the green cube above the yellow one."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-87",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 120,
+      "colors": [
+        "teal",
+        "yellow",
+        "blue"
+      ],
+      "episode": 0,
+      "instruction": "Place the green cube. Take the yellow cube and place on top of the green cube. Finally take the blue cube and place on top the yellow cube."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-88",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 121,
+      "colors": [
+        "teal",
+        "gray"
+      ],
+      "episode": 0,
+      "instruction": "Start a stack of cubes with the green cube. Move the gray  cube to the top of the stack."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-89",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 122,
+      "colors": [
+        "black",
+        "orange",
+        "red"
+      ],
+      "episode": 0,
+      "instruction": "Place the black cube.  Now place the orange cube on top of it. Finish the tower with the red cube on top."
+,
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-90",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 123,
+      "colors": [
+        "green",
+        "yellow"
+      ],
+      "episode": 0,
+      "instruction": "Place the green block, then, place the yellow block on top of the green one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-91",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 124,
+      "colors": [
+        "red",
+        "cyan"
+      ],
+      "episode": 0,
+      "instruction": "In that order, place the red cube and then the light blue block.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-92",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 125,
+      "colors": [
+        "yellow",
+        "green",
+        "navy"
+      ],
+      "episode": 0,
+      "instruction": "pick up the yellow one before you place it on the target. place the green shape on top of it then add the blue one upon the green one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-93",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 126,
+      "colors": [
+        "silver",
+        "teal",
+        "blue"
+      ],
+      "episode": 0,
+      "instruction": "first place the gray shape. Then move  the green shape over. Finally grab the blue one place it on high of the green shape",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-94",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 127,
+      "colors": [
+        "lime",
+        "violet"
+      ],
+      "episode": 0,
+      "instruction": "pick up the green one before you place it on the target location. Add the violet one upon the green one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-95",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 128,
+      "colors": [
+        "red",
+        "yellow"
+      ],
+      "episode": 0,
+      "instruction": "bring the red one above the target.  Grab the yellow one leave it above the red one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-96",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 129,
+      "colors": [
+        "white",
+        "orange"
+      ],
+      "episode": 0,
+      "instruction": "place the white cube before you add the orange one upon the white one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-97",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 130,
+      "colors": [
+        "azure",
+        "magenta",
+        "red"
+      ],
+      "episode": 0,
+      "instruction": "very stack the light blue block.  add the purple one on high of the blue cube and take the red mug place it over the violet cube",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-98",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 131,
+      "colors": [
+        "rose",
+        "blue"
+      ],
+      "episode": 0,
+      "instruction": "pick up the pink shape before you set it down. blue mug goes on top it",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-99",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 132,
+      "colors": [
+        "navy",
+        "green",
+        "maroon"
+      ],
+      "episode": 0,
+      "instruction": "take the blue shape and place it. grab the green mug before you release it on high of the blue one. take the marron mug and place it on high of the pink mug.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-100",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 133,
+      "colors": [
+        "black",
+        "lime"
+      ],
+      "episode": 0,
+      "instruction": "grab the black shape and place it. take the lime shape and release it upon the black one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-101",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 134,
+      "colors": [
+        "orange",
+        "rose"
+      ],
+      "episode": 0,
+      "instruction": "stack the orange block. take the rose one release it upon the orange one.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-102",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 135,
+      "colors": [
+        "navy",
+        "red"
+      ],
+      "episode": 0,
+      "instruction": "take the dark blue mug before you leave it. move the red one upon the blue mug",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-103",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 136,
+      "colors": [
+        "rose",
+        "azure",
+        "violet"
+      ],
+      "episode": 0,
+      "instruction": "",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-104",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 137,
+      "colors": [
+        "silver",
+        "teal",
+        "navy"
+      ],
+      "episode": 0,
+      "instruction": "pick up the gray cube leave it. stack the green shape over the gray cube. bring the blue one on high ot the green one.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-105",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 138,
+      "colors": [
+        "violet",
+        "olive",
+        "rose"
+      ],
+      "episode": 0,
+      "instruction": "first place the violet cup and place the olive one on high of the violet one grab the pink cup leave it upon the olive one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-106",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 139,
+      "colors": [
+        "violet",
+        "black"
+      ],
+      "episode": 0,
+      "instruction": "take the violet cube and release it upon the target bring the black one on high of the violet one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-107",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 140,
+      "colors": [
+        "lime",
+        "yellow",
+        "purple"
+      ],
+      "episode": 0,
+      "instruction": "first add the green shape and take the yellow cube before you leave it above the green one and grab the violet and leave it upon the others",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-108",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 141,
+      "colors": [
+        "gray",
+        "blue",
+        "black"
+      ],
+      "episode": 0,
+      "instruction": "bring the gray cube. move the blue cube over the pink shape and take the black one place it above the white one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-109",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 142,
+      "colors": [
+        "azure",
+        "purple"
+      ],
+      "episode": 0,
+      "instruction": "pick up the blue mug before you leave it on the target. grasp the purple cube before you place it above the blue mug",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-110",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 143,
+      "colors": [
+        "rose",
+        "gray"
+      ],
+      "episode": 0,
+      "instruction": "thereafter place the rose mug. second put the gray one above the rose cube",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-111",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 144,
+      "colors": [
+        "silver",
+        "white",
+        "maroon"
+      ],
+      "episode": 0,
+      "instruction": "stack the gray cube. grab the white cube place it above the silver one and now place the brown one on high of the white one.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-112",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 145,
+      "colors": [
+        "azure",
+        "red"
+      ],
+      "episode": 0,
+      "instruction": "pick up the blue shape before you set it down. move the red one above the blue shape",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-113",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 146,
+      "colors": [
+        "azure",
+        "blue"
+      ],
+      "episode": 0,
+      "instruction": "grasp the light blue mug before you leave it. pick up the dark blue cube before you release it over the light blue cube",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-114",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 148,
+      "colors": [
+        "magenta",
+        "silver"
+      ],
+      "episode": 0,
+      "instruction": "grasp the violet one before you leave it. grasp the gray one before you place it on high of the violet cube",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-115",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 149,
+      "colors": [
+        "purple",
+        "cyan"
+      ],
+      "episode": 0,
+      "instruction": "place the purple block. second stack the cyan one above the purple one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-116",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 150,
+      "colors": [
+        "blue",
+        "green",
+        "lime"
+      ],
+      "episode": 0,
+      "instruction": "stack the blue cube.  and put the green one above the blue shape and second put the light green one upon the other green one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-117",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 151,
+      "colors": [
+        "black",
+        "magenta"
+      ],
+      "episode": 0,
+      "instruction": "set the black block down. thereafter place the magenta one over the black one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-118",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 152,
+      "colors": [
+        "azure",
+        "maroon",
+        "navy"
+      ],
+      "episode": 0,
+      "instruction": "stack the blue block. take the maroon shape before you place it upon the blue cube. then add the dark blue block on top of them",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-119",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 153,
+      "colors": [
+        "violet",
+        "silver",
+        "red"
+      ],
+      "episode": 0,
+      "instruction": "take the violet block and settle it down. place the gray one above the violet cube take the red shape before you place it on high of the gray mug",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-120",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 154,
+      "colors": [
+        "lime",
+        "rose",
+        "black"
+      ],
+      "episode": 0,
+      "instruction": "place the green cube. grasp the rose one before you place it upon the green one. finish with the black cube on top of them.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-121",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 155,
+      "colors": [
+        "white",
+        "red",
+        "violet"
+      ],
+      "episode": 0,
+      "instruction": "put the white mug above the target. grab the red one before you leave it above the white cube grab the violet one place it above the red mug",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-122",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 156,
+      "colors": [
+        "olive",
+        "white"
+      ],
+      "episode": 0,
+      "instruction": "place the olive cube. place the white shape upon the olive cube",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-123",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 157,
+      "colors": [
+        "orange",
+        "white",
+        "lime"
+      ],
+      "episode": 0,
+      "instruction": "stack the orange block. take the white one and release it over the orange shape. place the green one above the white cube",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-124",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 158,
+      "colors": [
+        "yellow",
+        "azure",
+        "magenta"
+      ],
+      "episode": 0,
+      "instruction": "place the yellow block. take the blue shape before you place it on high of the yellow mug and grab the violet one before you place it upon the blue one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-125",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 159,
+      "colors": [
+        "lime",
+        "navy"
+      ],
+      "episode": 0,
+      "instruction": "second place the green cube.  and thereafter place the blue one over the green one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-126",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 160,
+      "colors": [
+        "lime",
+        "black"
+      ],
+      "episode": 0,
+      "instruction": "stack the lime one and take the black shape before you place it upon the lime cube",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-127",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 161,
+      "colors": [
+        "green",
+        "lime"
+      ],
+      "episode": 0,
+      "instruction": "take the green cup before you place it.  and take the yellowish green cup before you leave it on high of the green one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-128",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 162,
+      "colors": [
+        "green",
+        "silver"
+      ],
+      "episode": 0,
+      "instruction": "place the green shape.  pick up the gray cube place it over the green cup",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-129",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 163,
+      "colors": [
+        "orange",
+        "teal"
+      ],
+      "episode": 0,
+      "instruction": "grasp the orange cube release it on the target. and pick up the green shape before you release it over the orange one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-130",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 164,
+      "colors": [
+        "silver",
+        "green"
+      ],
+      "episode": 0,
+      "instruction": "place the gray cube. and pick up the green one and release it above the gray one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-131",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 165,
+      "colors": [
+        "green",
+        "gray"
+      ],
+      "episode": 0,
+      "instruction": "place the green shape.  and grasp the gray shape before you release it upon the green cube.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-132",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 166,
+      "colors": [
+        "silver",
+        "azure"
+      ],
+      "episode": 0,
+      "instruction": "place the gray block. put the blue shape upon the gray one.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-133",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 167,
+      "colors": [
+        "rose",
+        "olive",
+        "silver"
+      ],
+      "episode": 0,
+      "instruction": "set the rose block down. pick up the olive cube before you leave it over the rose one pick up the gray cube and release it over the olive one",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-134",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 168,
+      "colors": [
+        "purple",
+        "cyan",
+        "black"
+      ],
+      "episode": 0,
+      "instruction": "take the purple cube release it over the target. pick up the blue one release it on high of the purple cube and take the black one leave it above the blue cup",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-135",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 169,
+      "colors": [
+        "lime",
+        "olive"
+      ],
+      "episode": 0,
+      "instruction": "Place the light green block.  Place the dark green block on top of the other.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-136",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 170,
+      "colors": [
+        "purple",
+        "blue"
+      ],
+      "episode": 0,
+      "instruction": "Take the purple cube and place it. Move the blue cube on top of the purple cube",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-137",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 171,
+      "colors": [
+        "magenta",
+        "azure"
+      ],
+      "episode": 0,
+      "instruction": "place the magenta block. Now finish with the blue cube.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-138",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 172,
+      "colors": [
+        "green",
+        "olive"
+      ],
+      "episode": 0,
+      "instruction": "Place the light green block.  Place the dark green block on top of it.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-139",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 173,
+      "colors": [
+        "lime",
+        "teal",
+        "white"
+      ],
+      "episode": 0,
+      "instruction": "Start with the green block.  Put the blue block on top of the green block.  Next add the white block, on top of the blue block.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-140",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 174,
+      "colors": [
+        "magenta",
+        "lime"
+      ],
+      "episode": 0,
+      "instruction": "The purple block will be the base of the tower. Add the green block, on top of the purple block.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-141",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 175,
+      "colors": [
+        "orange",
+        "teal",
+        "navy"
+      ],
+      "episode": 0,
+      "instruction": "Place the orange block. Grab the greenish blue block and release it on top of it. Finally put the last block, which is the dark blue block on top of the stack.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-142",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 176,
+      "colors": [
+        "purple",
+        "gray"
+      ],
+      "episode": 0,
+      "instruction": "Purple cube first then gray on top.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-143",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 177,
+      "colors": [
+        "orange",
+        "maroon"
+      ],
+      "episode": 0,
+      "instruction": "Get the orange block and place it on top of the target\nNext get the maroon block and place it on top of the orange block",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-144",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 178,
+      "colors": [
+        "violet"
+      ],
+      "episode": 0,
+      "instruction": "Place the violet block.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-145",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 179,
+      "colors": [
+        "azure",
+        "navy"
+      ],
+      "episode": 0,
+      "instruction": "Stack the lighter blue block. Then get the darker blue block and place it on top of the first block",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-146",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 180,
+      "colors": [
+        "lime",
+        "red"
+      ],
+      "episode": 0,
+      "instruction": "leave the green cube on the target, then stack the red on top.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-147",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 181,
+      "colors": [
+        "cyan"
+      ],
+      "episode": 0,
+      "instruction": "Set the blue cube down.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-148",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 182,
+      "colors": [
+        "azure",
+        "green",
+        "orange"
+      ],
+      "episode": 0,
+      "instruction": "place the blue block. put the green one on the blue one then put the orange one on the pile",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-149",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 183,
+      "colors": [
+        "maroon"
+      ],
+      "episode": 0,
+      "instruction": "Stack the brown cube.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-150",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 184,
+      "colors": [
+        "silver",
+        "violet"
+      ],
+      "episode": 0,
+      "instruction": "Place the gray cube.\nPlace the second cube, the violet one, on the stack of cubes.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-151",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 185,
+      "colors": [
+        "red",
+        "blue",
+        "lime"
+      ],
+      "episode": 0,
+      "instruction": "Stack the red cube. Place the blue on top of it. Place the remaining cube on the stack of cubes.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-152",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 186,
+      "colors": [
+        "black",
+        "azure"
+      ],
+      "episode": 0,
+      "instruction": "Place the black cube. Then place the black cube on top of it.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-153",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 187,
+      "colors": [
+        "magenta"
+      ],
+      "episode": 0,
+      "instruction": "Place the dark red cube.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-154",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 188,
+      "colors": [
+        "violet",
+        "teal",
+        "gray"
+      ],
+      "episode": 0,
+      "instruction": "Place the violet cube. Put the green cube on top of the violet cube. Place the gray cube on top of the green cube.\nMake sure all blocks are lined up and even.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-155",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 189,
+      "colors": [
+        "silver",
+        "magenta",
+        "maroon"
+      ],
+      "episode": 0,
+      "instruction": "put the gray cube on the base. the magenta cube goes on top of it. then put the maroon one on the magenta one.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-156",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 190,
+      "colors": [
+        "white"
+      ],
+      "episode": 0,
+      "instruction": "Stack the white cube.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-157",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 191,
+      "colors": [
+        "black",
+        "white"
+      ],
+      "episode": 0,
+      "instruction": "Place the black cube and then put the white one on the black",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-158",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 192,
+      "colors": [
+        "blue",
+        "orange"
+      ],
+      "episode": 0,
+      "instruction": "place the blue cube. put the orange cube on top of it",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-159",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 193,
+      "colors": [
+        "blue",
+        "cyan"
+      ],
+      "episode": 0,
+      "instruction": "set the darker blue cube down. place the lighter blue one on top of it.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-160",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 194,
+      "colors": [
+        "olive",
+        "lime"
+      ],
+      "episode": 0,
+      "instruction": "set the darker green cube down. place the lighter green one on top if it.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-161",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 195,
+      "colors": [
+        "azure",
+        "maroon",
+        "orange"
+      ],
+      "episode": 0,
+      "instruction": "The first step is to grab the blue cube and put it on as the target. Second, grab the maroon cube and put that on top of the blue cube. Lastly, grab the remaining orange cube and place it on top of the maroon cube. ",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-162",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 196,
+      "colors": [
+        "maroon",
+        "white",
+        "black"
+      ],
+      "episode": 0,
+      "instruction": "Step 1: take the maroon cube and put it on top of the target.\nStep 2: take the white cube and put it on top of the maroon cube.\nStep 3: take the black cube and put it on top of white cube",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-163",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 197,
+      "colors": [
+        "gray",
+        "red"
+      ],
+      "episode": 0,
+      "instruction": "place grey block \npick up red block\nset down red block on top of grey block",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-164",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 198,
+      "colors": [
+        "navy",
+        "lime",
+        "azure"
+      ],
+      "episode": 0,
+      "instruction": "Place the navy box. Then move the green box on top of that box. Then place the light blue box on top of them.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  },
+  {
+    "id": "streamlit-tower3-165",
+    "createdTime": "2020-01-01T00:00:00.000Z",
+    "fields": {
+      "task": "tower3",
+      "variation": 199,
+      "colors": [
+        "red",
+        "green",
+        "lime"
+      ],
+      "episode": 0,
+      "instruction": "Red is the bottom of the tower. Place the green cube on top of the red cube.  Then place the lime one on top of the green one.",
+      "time_start": "",
+      "Last Modified": ""
+    }
+  }
+]
