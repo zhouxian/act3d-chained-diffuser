@@ -348,7 +348,7 @@ class DiffusionHead(Encoder):
             seq1_sem_pos=traj_time_pos, seq2_sem_pos=None,
             ada_sgnl=time_feats.squeeze(1)
         )
-        rot_feats, _ = self.pos_attention[l_offset](
+        rot_feats, _ = self.rot_attention[l_offset](
             seq1=traj_feats, seq1_key_padding_mask=trajectory_mask,
             seq2=context_feats, seq2_key_padding_mask=None,
             seq1_pos=traj_pos, seq2_pos=context_pos,
