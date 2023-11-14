@@ -1,3 +1,6 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/act3d-infinite-resolution-action-detection/robot-manipulation-on-rlbench)](https://paperswithcode.com/sota/robot-manipulation-on-rlbench?p=act3d-infinite-resolution-action-detection)
+
+
 # Act3D & ChainedDiffuser
 
 
