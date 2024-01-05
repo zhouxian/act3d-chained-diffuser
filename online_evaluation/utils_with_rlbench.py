@@ -206,7 +206,10 @@ class Actioner:
                 self._instr,
                 gripper[:, -1, :self._action_dim],
             )
-            output["action"] = self._keypose_model.prepare_action(pred)
+            output["action"] = torch.cat(
+                [pred["position"], pred["rotation"], pred["gripper"]],
+                dim=1
+            )
         else:
             output["action"] = gt_action[:, -1]
 
