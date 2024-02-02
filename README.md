@@ -30,7 +30,7 @@ pip install numpy pillow einops typed-argument-parser tqdm transformers absl-py 
 pip install git+https://github.com/openai/CLIP.git;
 ```
 
-To install RLBench locally (make sure to edit the COPPELIASIM_ROOT to point to your path to PyRep!):
+To install RLBench locally (make sure to edit the `COPPELIASIM_ROOT` to point to your path to PyRep!):
 ```
 # Install PyRep
 cd PyRep; 
